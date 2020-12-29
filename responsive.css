@@ -1,0 +1,41 @@
+.right-menu {
+  display:none;
+}
+.left-menu {
+  margin-bottom:30px;
+}
+
+.last-colum-all { 
+  display: none;
+}
+
+.main-image{
+  clear: both;
+  height:250px;
+}
+
+h1{
+  font-size:15px;
+  padding:75px 0 0 50px;
+}
+
+.main-p {
+  padding-left:50px;
+}
+
+.main-button{
+  margin-left:50px;
+}
+
+.second-colum {
+  display:block;
+}
+
+.mail,.time,.world {
+  width:100%;
+  margin: 0 auto;
+}
+
+.gift {
+  width:85%;
+}
